@@ -8,7 +8,7 @@
 
 I am a Frontend developer and Machine Learning Enthusiast. I love programming, writing, speaking, and traveling.
 
-As an Enthusiast, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As an Enthusiast, I enjoy using my attention to detail, that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
@@ -16,8 +16,8 @@ As an Enthusiast, I enjoy using my obsessive attention to detail, and my unequiv
 **Talking about Personal Stuff:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/vishwajeetgehlot3/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/vishwajeetgehlot3/);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently practicing Data Structures and Algorithms on [leetcode](https://leetcode.com/vishwajeetgehlot3/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/vishwajeetgehlot3/);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to ask me, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary try to learn new things on Tech;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: vigehlot3@gmail.com;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://ssym.netlify.app/Resume.pdf).
@@ -29,7 +29,7 @@ As an Enthusiast, I enjoy using my obsessive attention to detail, and my unequiv
 <!--START_SECTION:waka-->
 
 ```
-Learning about different types of Large language models
+Learning about changes in Large language models
 Pytorch Framework
 Working on an interesting project with teammates
 Reading a Fictional Book
