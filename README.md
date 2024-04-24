@@ -10,8 +10,7 @@ I am a Frontend developer and Machine Learning Enthusiast. I love programming, w
 
 As an Enthusiast, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
-<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="408" height="318" >
   
 
 **Talking about Personal Stuff:**
