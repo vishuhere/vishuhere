@@ -22,13 +22,6 @@ As an Enthusiast, I enjoy using my attention to detail, that change the world. T
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://ssym.netlify.app/Resume.pdf).
 </br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
