@@ -26,14 +26,13 @@ As an Enthusiast, I enjoy using my obsessive attention to detail, and my unequiv
 
 📊 **This Week I Spent My Time On:**
 
+<!--START_SECTION:waka-->
+
+```
 Learning about different types of Large language models
 Pytorch Framework
 Working on an interesting project with teammates
 Reading a Fictional Book
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
 ```
 
 <!--END_SECTION:waka-->
