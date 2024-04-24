@@ -25,6 +25,11 @@ As an Enthusiast, I enjoy using my obsessive attention to detail, and my unequiv
 </br>
 
 📊 **This Week I Spent My Time On:**
+
+Learning about different types of Large language models
+Pytorch Framework
+Working on an interesting project with teammates
+Reading a Fictional Book
 <!--START_SECTION:waka-->
 
 ```txt
@@ -32,6 +37,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
