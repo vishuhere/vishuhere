@@ -10,7 +10,7 @@ I am a Frontend developer and Machine Learning Enthusiast. I love programming, w
 
 **Talking about Personal Stuff:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working in open source GSsoC;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently practicing Data Structures and Algorithms on [leetcode](https://leetcode.com/vishwajeetgehlot3/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/vishwajeetgehlot3/);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to ask me, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary try to learn new things on Tech;
@@ -37,7 +37,7 @@ I am a Frontend developer and Machine Learning Enthusiast. I love programming, w
 Learning about changes in Large language models
 Pytorch Framework
 Working on an interesting project with teammates
-Reading a Fictional Book
+
 ```
 
 <!--END_SECTION:waka-->
