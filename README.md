@@ -4,8 +4,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/v1shwajeet)
 
 I am a Frontend developer and Machine Learning Enthusiast. I love programming, writing, speaking, and traveling.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuff:**
