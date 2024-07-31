@@ -7,7 +7,7 @@
 
 I am a Frontend developer and Machine Learning Enthusiast. I love programming and want to dive deep into the field of Machine Learning along with that I also like Reading, Speaking, and Traveling.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="280" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="390" height="280" />
 
 **Talking about Personal Stuff:**
 
