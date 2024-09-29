@@ -16,7 +16,7 @@ I am a Frontend developer and Machine Learning Enthusiast. I love programming an
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to ask me, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary try to learn new things on Tech;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: vigehlot3@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1MZlsbRZckwuUcOPxCu9TrKDmowqmx0f8/view?pli=1).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume]([https://drive.google.com/file/d/1MZlsbRZckwuUcOPxCu9TrKDmowqmx0f8/view?pli=1](https://drive.google.com/file/d/1c9Y5hDI9ShBP_2y1jc2P-rRmoujnKW72/view)).
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
